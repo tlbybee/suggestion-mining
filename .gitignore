@@ -157,5 +157,6 @@ cython_debug/
 /Red-Flannel/data/*
 /images4*way/data_split/train/*
 
-#trained models, due to size
+#trained models and checkpoints, due to size
 *.th
+.ser_dir/model.tar.gz
