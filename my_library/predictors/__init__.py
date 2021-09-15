@@ -1,0 +1,1 @@
+from my_library.predictors.suggestion_mining_predictor import SuggestionMiningPredictor
