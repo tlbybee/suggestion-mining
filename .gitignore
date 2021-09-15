@@ -153,4 +153,4 @@ cython_debug/
 
 #trained models and checkpoints, due to size
 *.th
-/ser_dir/model.tar.gz
+ser_dir/model.tar.gz
