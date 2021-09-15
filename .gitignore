@@ -151,12 +151,6 @@ cython_debug/
 # Local History for Visual Studio Code
 .history/
 
-#images due to size
-/images/*
-/FLANNEL/original data/*
-/Red-Flannel/data/*
-/images4*way/data_split/train/*
-
 #trained models and checkpoints, due to size
 *.th
-.ser_dir/model.tar.gz
+/ser_dir/model.tar.gz
