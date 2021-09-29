@@ -1,4 +1,4 @@
-# Forum-Data-Mining
+# Forum-Suggestion-Mining
 
 ## Team
 > Tingkai Zhang (tingkai4@illinois.edu)\
